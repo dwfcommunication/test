@@ -1,9 +1,18 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1391\cocoasubrtf120
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
 \f0\fs24 \cf0 Itest joao\
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 \cf0 test joao2}
+
+\f0\fs24 \cf0 test joao}
+
+TEST V 2
+O summam Dei patris liberalitatem, summam et admirandam hominis felicitatem ! cui datum id 
+habere quod optat, id esse quod velit. Bruta simul atque nascuntur id secum afferunt, ut ait Lucilius7, e bulga matris quod possessura sunt. 
+Supremi spiritus aut ab initio aut paulo mox id fuerunt, quod sunt futuri in perpetuas aeternitates. Nascenti homini omnifaria semina et omnigenae vitae germina indidit Pater; quae quisque excoluerit illa adolescent, et fructus suos ferent in illo. Si vegetalia, planta fiet. Si sensualia, obrutescet. Si rationalia, caeleste evadet animal. Si intellectualia, angelus erit et Dei filius8, et si nulla creaturarum sorte contentus in unitatis centrum suae se receperit, unus cum Deo spiritus factus, in solitaria Patris caligine qui est super omnia constitutus omnibus antestabit. Quis hunc nostrum chamaeleonta9 non 
+admiretur? aut omnino quis aliud quicquam admiretur magis? Quem non immerito Asclepius Atheniensis versipellis huius et se ipsam transformantis naturae argumento per Proteum in 
+
